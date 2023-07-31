@@ -13,7 +13,7 @@ This project involves building a chatbot using natural language processing (NLP)
 
 ### Files
 1. chatbot_SYNC_INTERN: Main file contains building the model and training it and building the chatbot app
-2. chatbot_data: Json file for kaggle dataset ' https://www.kaggle.com/datasets/niraliivaghani/chatbot-dataset'
+2. chatbot_data: Json file for kaggle dataset ' https://www.kaggle.com/datasets/niraliivaghani/chatbot-dataset '
 3. classes.pkl: A file containing a list of strings representing the intents of the chatbot.
 4. words.pkl: A file containing a list of strings representing the words that the chatbot has been trained on.
 5. model.h5: A trained neural network model file saved in HDF5 format. The model takes a user's message as input and predicts the intent of the message as output.
